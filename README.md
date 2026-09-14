@@ -7,6 +7,7 @@ Computer with MATLAB software
 ## Theory:
 <img width="959" height="1543" alt="image" src="https://github.com/user-attachments/assets/5a76d668-d6b2-4488-8ab0-72ef1b8fa1ac" />
 <img width="927" height="1457" alt="image" src="https://github.com/user-attachments/assets/19eb8e43-802f-40cc-ae92-31dd8075f056" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/86578334-7756-473b-a5cf-35a55d19e605" />
 
 
 
